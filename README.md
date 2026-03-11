@@ -93,8 +93,9 @@ The project uses a **MySQL database**.
 Database file:
 
 ```
-atm.sql
+C:\xampp\mysql\data
 ```
+Impot **atm** folder for this parth
 
 Steps to import database:
 
@@ -111,22 +112,6 @@ MySQL
 
 ```
 http://localhost/phpmyadmin
-```
-
-4 Click **New Database**
-
-Create database:
-
-```
-atm
-```
-
-5 Click **Import**
-
-6 Upload file:
-
-```
-atm.sql
 ```
 
 Now database is ready.
